@@ -2,113 +2,111 @@
   "pirates": [
       {
           "id": 1,
-          "naam": "Monkey D. Luffy",
-          "beschrijving": "Luffy is de hoofdpersoon van One Piece, die droomt van het worden van de Pirate King en de legendarische One Piece te vinden.",
-          "leeftijd": 19,
-          "actief": true,
-          "geboortedatum": "1505-05-05",
-          "profielAfbeelding": "assets/image/monkey-d-luffy.png",
-          "seizoenen": ["1-heden"],
-          "hobbies": ["Eten", "Vechten", "Avonturen beleven"],
-          "schip": "Thousand Sunny",
+          "name": "Monkey D. Luffy",
+          "description": "Luffy is the protagonist of One Piece, who dreams of becoming the Pirate King and finding the legendary One Piece.",
+          "age": 19,
+          "active": true,
+          "birthdate": "1505-05-05",
+          "profileImage": "assets/image/monkey-d-luffy.png",
+          "seasons": ["1-present"],
+          "hobbies": ["Eating", "Fighting", "Going on adventures"],
+          "ship": "Thousand Sunny",
           "extraInfoId": 201,
-          "adres": {
-              "straat": "Grand Line 1",
-              "stad": "Foosha Village",
-              "land": "East Blue"
+          "address": {
+              "street": "Grand Line 1",
+              "city": "Foosha Village",
+              "country": "East Blue"
           }
       },
       {
           "id": 2,
-          "naam": "Roronoa Zoro",
-          "beschrijving": "Zoro is een meester zwaardvechter en de eerste metgezel van Luffy. Hij streeft ernaar de beste zwaardvechter ter wereld te worden.",
-          "leeftijd": 21,
-          "actief": true,
-          "geboortedatum": "1501-11-11",
-          "profielAfbeelding": "assets/image/zoro.png",
-          "seizoenen": ["1-heden"],
-          "hobbies": ["Zwaardvechten", "Slaapt overal"],
-          "schip": "Thousand Sunny",
+          "name": "Roronoa Zoro",
+          "description": "Zoro is a master swordsman and Luffy's first companion. He strives to become the world's greatest swordsman.",
+          "age": 21,
+          "active": true,
+          "birthdate": "1501-11-11",
+          "profileImage": "assets/image/zoro.png",
+          "seasons": ["1-present"],
+          "hobbies": ["Sword fighting", "Sleeping anywhere"],
+          "ship": "Thousand Sunny",
           "extraInfoId": 202,
-          "adres": {
-              "straat": "Shimotsuki Dojo 2",
-              "stad": "Shimotsuki Village",
-              "land": "East Blue"
+          "address": {
+              "street": "Shimotsuki Dojo 2",
+              "city": "Shimotsuki Village",
+              "country": "East Blue"
           }
       },
       {
           "id": 3,
-          "naam": "Nami",
-          "beschrijving": "Nami is de navigatrice van de Straw Hat Pirates, en ze is briljant in het lezen van kaarten en het weer.",
-          "leeftijd": 20,
-          "actief": true,
-          "geboortedatum": "1502-07-03",
-          "profielAfbeelding": "assets/image/nami.png",
-          "seizoenen": ["1-heden"],
-          "hobbies": ["Kaarten tekenen", "Diefstal (vroeger)", "Eten"],
-          "schip": "Thousand Sunny",
+          "name": "Nami",
+          "description": "Nami is the navigator of the Straw Hat Pirates, and she is brilliant at reading maps and predicting the weather.",
+          "age": 20,
+          "active": true,
+          "birthdate": "1502-07-03",
+          "profileImage": "assets/image/nami.png",
+          "seasons": ["1-present"],
+          "hobbies": ["Drawing maps", "Stealing (formerly)", "Eating"],
+          "ship": "Thousand Sunny",
           "extraInfoId": 203,
-          "adres": {
-              "straat": "Arlong Park 3",
-              "stad": "Cocoyasi Village",
-              "land": "East Blue"
+          "address": {
+              "street": "Arlong Park 3",
+              "city": "Cocoyasi Village",
+              "country": "East Blue"
           }
       },
       {
           "id": 4,
-          "naam": "Usopp",
-          "beschrijving": "Usopp is de scherpschutter van de Straw Hat Pirates, bekend om zijn leugens en verhalen. Hij heeft een enorme creativiteit als het gaat om het maken van wapens.",
-          "leeftijd": 19,
-          "actief": true,
-          "geboortedatum": "1505-04-01",
-          "profielAfbeelding": "assets/image/usopp.png",
-          "seizoenen": ["1-heden"],
-          "hobbies": ["Verhalen vertellen", "Vuurwerk maken", "Vechten"],
-          "schip": "Thousand Sunny",
+          "name": "Usopp",
+          "description": "Usopp is the sharpshooter of the Straw Hat Pirates, known for his lies and stories. He has incredible creativity when it comes to making weapons.",
+          "age": 19,
+          "active": true,
+          "birthdate": "1505-04-01",
+          "profileImage": "assets/image/usopp.png",
+          "seasons": ["1-present"],
+          "hobbies": ["Telling stories", "Making fireworks", "Fighting"],
+          "ship": "Thousand Sunny",
           "extraInfoId": 204,
-          "adres": {
-              "straat": "Sniper Hill 4",
-              "stad": "Syrup Village",
-              "land": "East Blue"
+          "address": {
+              "street": "Sniper Hill 4",
+              "city": "Syrup Village",
+              "country": "East Blue"
           }
       },
       {
           "id": 5,
-          "naam": "Sanji",
-          "beschrijving": "Sanji is de kok van de bemanning en een uiterst bekwame vechter met zijn Black Leg-stijl.",
-          "leeftijd": 21,
-          "actief": true,
-          "geboortedatum": "1501-03-02",
-          "profielAfbeelding": "assets/image/sanji.png",
-          "seizoenen": ["1-heden"],
-          "hobbies": ["Koken", "Vrouwen versieren", "Roken"],
-          "schip": "Thousand Sunny",
+          "name": "Sanji",
+          "description": "Sanji is the cook of the crew and a highly skilled fighter with his Black Leg style.",
+          "age": 21,
+          "active": true,
+          "birthdate": "1501-03-02",
+          "profileImage": "assets/image/sanji.png",
+          "seasons": ["1-present"],
+          "hobbies": ["Cooking", "Flirting with women", "Smoking"],
+          "ship": "Thousand Sunny",
           "extraInfoId": 205,
-          "adres": {
-              "straat": "Baratie 5",
-              "stad": "Zee van East Blue",
-              "land": "Geen vast land"
+          "address": {
+              "street": "Baratie 5",
+              "city": "Sea of East Blue",
+              "country": "No fixed land"
           }
       },
       {
           "id": 6,
-          "naam": "Shanks",
-          "beschrijving": "Shanks is een van de Yonko en een invloedrijke piraat die Luffy heeft geïnspireerd om de zeeën te bevaren.",
-          "leeftijd": 39,
-          "actief": true,
-          "geboortedatum": "1468-03-09",
-          "profielAfbeelding": "assets/image/shanks.png",
-          "seizoenen": ["1", "3", "4", "8", "10", "15-heden"],
-          "hobbies": ["Feesten", "Sterke drank drinken", "Vrijheid waarderen"],
-          "schip": "Red Force",
+          "name": "Shanks",
+          "description": "Shanks is one of the Yonko and an influential pirate who inspired Luffy to set sail.",
+          "age": 39,
+          "active": true,
+          "birthdate": "1468-03-09",
+          "profileImage": "assets/image/shanks.png",
+          "seasons": ["1", "3", "4", "8", "10", "15-present"],
+          "hobbies": ["Partying", "Drinking strong alcohol", "Valuing freedom"],
+          "ship": "Red Force",
           "extraInfoId": 210,
-          "adres": {
-              "straat": "Red-Haired Base 10",
-              "stad": "Onbekend",
-              "land": "New World"
+          "address": {
+              "street": "Red-Haired Base 10",
+              "city": "Unknown",
+              "country": "New World"
           }
       }
   ]
 }
-
-  
