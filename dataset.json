@@ -12,6 +12,7 @@
           "hobbies": ["Eating", "Fighting", "Going on adventures"],
           "ship": "Thousand Sunny",
           "extraInfoId": 201,
+          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/monky-d-luffy.png",
           "address": {
               "street": "Grand Line 1",
               "city": "Foosha Village",
@@ -30,6 +31,7 @@
           "hobbies": ["Sword fighting", "Sleeping anywhere"],
           "ship": "Thousand Sunny",
           "extraInfoId": 202,
+          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/zoro.png",
           "address": {
               "street": "Shimotsuki Dojo 2",
               "city": "Shimotsuki Village",
@@ -48,6 +50,7 @@
           "hobbies": ["Drawing maps", "Stealing (formerly)", "Eating"],
           "ship": "Thousand Sunny",
           "extraInfoId": 203,
+          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/nami.png",
           "address": {
               "street": "Arlong Park 3",
               "city": "Cocoyasi Village",
@@ -66,6 +69,7 @@
           "hobbies": ["Telling stories", "Making fireworks", "Fighting"],
           "ship": "Thousand Sunny",
           "extraInfoId": 204,
+          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/usopp.png",
           "address": {
               "street": "Sniper Hill 4",
               "city": "Syrup Village",
@@ -84,6 +88,7 @@
           "hobbies": ["Cooking", "Flirting with women", "Smoking"],
           "ship": "Thousand Sunny",
           "extraInfoId": 205,
+          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/sanji.png",
           "address": {
               "street": "Baratie 5",
               "city": "Sea of East Blue",
@@ -102,6 +107,7 @@
           "hobbies": ["Partying", "Drinking strong alcohol", "Valuing freedom"],
           "ship": "Red Force",
           "extraInfoId": 210,
+          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/shanks.png",
           "address": {
               "street": "Red-Haired Base 10",
               "city": "Unknown",
