@@ -1,118 +1,194 @@
 {
   "pirates": [
-      {
-          "id": 1,
-          "name": "Monkey D. Luffy",
-          "description": "Luffy is the protagonist of One Piece, who dreams of becoming the Pirate King and finding the legendary One Piece.",
-          "age": 19,
-          "active": true,
-          "birthdate": "1505-05-05",
-          "profileImage": "assets/image/monkey-d-luffy.png",
-          "seasons": ["1-present"],
-          "hobbies": ["Eating", "Fighting", "Going on adventures"],
-          "ship": "Thousand Sunny",
-          "extraInfoId": 201,
-          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/monky-d-luffy.png",
-          "address": {
-              "street": "Grand Line 1",
-              "city": "Foosha Village",
-              "country": "East Blue"
-          }
-      },
-      {
-          "id": 2,
-          "name": "Roronoa Zoro",
-          "description": "Zoro is a master swordsman and Luffy's first companion. He strives to become the world's greatest swordsman.",
-          "age": 21,
-          "active": true,
-          "birthdate": "1501-11-11",
-          "profileImage": "assets/image/zoro.png",
-          "seasons": ["1-present"],
-          "hobbies": ["Sword fighting", "Sleeping anywhere"],
-          "ship": "Thousand Sunny",
-          "extraInfoId": 202,
-          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/zoro.png",
-          "address": {
-              "street": "Shimotsuki Dojo 2",
-              "city": "Shimotsuki Village",
-              "country": "East Blue"
-          }
-      },
-      {
-          "id": 3,
-          "name": "Nami",
-          "description": "Nami is the navigator of the Straw Hat Pirates, and she is brilliant at reading maps and predicting the weather.",
-          "age": 20,
-          "active": true,
-          "birthdate": "1502-07-03",
-          "profileImage": "assets/image/nami.png",
-          "seasons": ["1-present"],
-          "hobbies": ["Drawing maps", "Stealing (formerly)", "Eating"],
-          "ship": "Thousand Sunny",
-          "extraInfoId": 203,
-          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/nami.png",
-          "address": {
-              "street": "Arlong Park 3",
-              "city": "Cocoyasi Village",
-              "country": "East Blue"
-          }
-      },
-      {
-          "id": 4,
-          "name": "Usopp",
-          "description": "Usopp is the sharpshooter of the Straw Hat Pirates, known for his lies and stories. He has incredible creativity when it comes to making weapons.",
-          "age": 19,
-          "active": true,
-          "birthdate": "1505-04-01",
-          "profileImage": "assets/image/usopp.png",
-          "seasons": ["1-present"],
-          "hobbies": ["Telling stories", "Making fireworks", "Fighting"],
-          "ship": "Thousand Sunny",
-          "extraInfoId": 204,
-          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/usopp.png",
-          "address": {
-              "street": "Sniper Hill 4",
-              "city": "Syrup Village",
-              "country": "East Blue"
-          }
-      },
-      {
-          "id": 5,
-          "name": "Sanji",
-          "description": "Sanji is the cook of the crew and a highly skilled fighter with his Black Leg style.",
-          "age": 21,
-          "active": true,
-          "birthdate": "1501-03-02",
-          "profileImage": "assets/image/sanji.png",
-          "seasons": ["1-present"],
-          "hobbies": ["Cooking", "Flirting with women", "Smoking"],
-          "ship": "Thousand Sunny",
-          "extraInfoId": 205,
-          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/sanji.png",
-          "address": {
-              "street": "Baratie 5",
-              "city": "Sea of East Blue",
-              "country": "No fixed land"
-          }
-      },
-      {
-          "id": 6,
-          "name": "Shanks",
-          "description": "Shanks is one of the Yonko and an influential pirate who inspired Luffy to set sail.",
-          "age": 39,
-          "active": true,
-          "birthdate": "1468-03-09",
-          "profileImage": "assets/image/shanks.png",
-          "seasons": ["1", "3", "4", "8", "10", "15-present"],
-          "hobbies": ["Partying", "Drinking strong alcohol", "Valuing freedom"],
-          "ship": "Red Force",
-          "extraInfoId": 210,
-          "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/shanks.png",
-          "address": {
-              "street": "Red-Haired Base 10",
-              "city": "Unknown",
-              "country": "New World"
-          }
+    {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "description": "Luffy is the protagonist of One Piece, who dreams of becoming the Pirate King and finding the legendary One Piece.",
+      "age": 19,
+      "active": true,
+      "birthdate": "1505-05-05",
+      "profileImage": "assets/image/monkey-d-luffy.png",
+      "seasons": ["1-present"],
+      "hobbies": ["Eating", "Fighting", "Going on adventures"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 201,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/monky-d-luffy.png",
+      "address": {
+        "street": "Grand Line 1",
+        "city": "Foosha Village",
+        "country": "East Blue"
       }
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro",
+      "description": "Zoro is a master swordsman and Luffy's first companion. He strives to become the world's greatest swordsman.",
+      "age": 21,
+      "active": true,
+      "birthdate": "1501-11-11",
+      "profileImage": "assets/image/zoro.png",
+      "seasons": ["1-present"],
+      "hobbies": ["Sword fighting", "Sleeping anywhere"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 202,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/zorro.png",
+      "address": {
+        "street": "Shimotsuki Dojo 2",
+        "city": "Shimotsuki Village",
+        "country": "East Blue"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "description": "Nami is the navigator of the Straw Hat Pirates, and she is brilliant at reading maps and predicting the weather.",
+      "age": 20,
+      "active": true,
+      "birthdate": "1502-07-03",
+      "profileImage": "assets/image/nami.png",
+      "seasons": ["1-present"],
+      "hobbies": ["Drawing maps", "Stealing (formerly)", "Eating"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 203,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/nami.png",
+      "address": {
+        "street": "Arlong Park 3",
+        "city": "Cocoyasi Village",
+        "country": "East Blue"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Usopp",
+      "description": "Usopp is the sharpshooter of the Straw Hat Pirates, known for his lies and stories. He has incredible creativity when it comes to making weapons.",
+      "age": 19,
+      "active": true,
+      "birthdate": "1505-04-01",
+      "profileImage": "assets/image/usopp.png",
+      "seasons": ["1-present"],
+      "hobbies": ["Telling stories", "Making fireworks", "Fighting"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 204,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/usopp.png",
+      "address": {
+        "street": "Sniper Hill 4",
+        "city": "Syrup Village",
+        "country": "East Blue"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sanji",
+      "description": "Sanji is the cook of the crew and a highly skilled fighter with his Black Leg style.",
+      "age": 21,
+      "active": true,
+      "birthdate": "1501-03-02",
+      "profileImage": "assets/image/sanji.png",
+      "seasons": ["1-present"],
+      "hobbies": ["Cooking", "Flirting with women", "Smoking"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 205,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/sanji.png",
+      "address": {
+        "street": "Baratie 5",
+        "city": "Sea of East Blue",
+        "country": "No fixed land"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Shanks",
+      "description": "Shanks is one of the Yonko and an influential pirate who inspired Luffy to set sail.",
+      "age": 39,
+      "active": true,
+      "birthdate": "1468-03-09",
+      "profileImage": "assets/image/shanks.png",
+      "seasons": ["1", "3", "4", "8", "10", "15-present"],
+      "hobbies": ["Partying", "Drinking strong alcohol", "Valuing freedom"],
+      "ship": "Red Force",
+      "extraInfoId": 210,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/refs/heads/main/dataset/images/shanks.png",
+      "address": {
+        "street": "Red-Haired Base 10",
+        "city": "Unknown",
+        "country": "New World"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Nico Robin",
+      "description": "Robin is the archaeologist of the Straw Hat Pirates and the only survivor of Ohara. She can read Poneglyphs.",
+      "age": 30,
+      "active": true,
+      "birthdate": "1494-02-06",
+      "profileImage": "assets/image/robin.png",
+      "seasons": ["9-present"],
+      "hobbies": ["Reading", "Studying history", "Archaeology"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 206,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/main/dataset/images/robin.png",
+      "address": {
+        "street": "Library Lane 7",
+        "city": "Ohara (former)",
+        "country": "West Blue"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Brook",
+      "description": "Brook is the musician of the Straw Hat Pirates, brought back to life by the Revive-Revive Fruit. He's a living skeleton.",
+      "age": 90,
+      "active": true,
+      "birthdate": "1415-04-03",
+      "profileImage": "assets/image/brook.png",
+      "seasons": ["9-present"],
+      "hobbies": ["Playing music", "Telling jokes", "Drinking tea"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 207,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/main/dataset/images/brook.png",
+      "address": {
+        "street": "Soul Street 8",
+        "city": "Florian Triangle",
+        "country": "Grand Line"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Tony Tony Chopper",
+      "description": "Chopper is the doctor of the crew, a reindeer who ate the Human-Human Fruit and has a passion for medicine.",
+      "age": 17,
+      "active": true,
+      "birthdate": "1507-12-24",
+      "profileImage": "assets/image/chopper.png",
+      "seasons": ["3-present"],
+      "hobbies": ["Medicine", "Eating sweets", "Transforming"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 208,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/main/dataset/images/chopper.png",
+      "address": {
+        "street": "Drum Kingdom 6",
+        "city": "Drum Island",
+        "country": "Grand Line"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Franky",
+      "description": "Franky is the shipwright of the Straw Hat Pirates, a cyborg with a passion for cola and building ships.",
+      "age": 36,
+      "active": true,
+      "birthdate": "1468-03-09",
+      "profileImage": "assets/image/franky.png",
+      "seasons": ["9-present"],
+      "hobbies": ["Shipbuilding", "Modifying himself", "Drinking cola"],
+      "ship": "Thousand Sunny",
+      "extraInfoId": 209,
+      "imageURL": "https://raw.githubusercontent.com/ShauniPP/Dataset-Pirates/main/dataset/images/franky.png",
+      "address": {
+        "street": "Scrap Heap 9",
+        "city": "Water 7",
+        "country": "Grand Line"
+      }
+    }
   ]
 }
